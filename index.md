@@ -1,6 +1,7 @@
 ---
 marp: true
-class: invert
+class: catppuccin-mocha
+theme: base16
 ---
 
 # Erebos
@@ -29,4 +30,4 @@ Erscheinungsjahr: 2010
 Name: Ursula Poznanski
 Geburtstag: 30.10.1968
 
-![grayscale bg right contain](https://ursula-poznanski.de/wp-content/uploads/2020/07/381.jpg)
+![grayscale bg right h:75%](assets/ursula_poznanski.png)

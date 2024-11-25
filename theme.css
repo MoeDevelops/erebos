@@ -1,0 +1,103 @@
+/* @theme base16 */
+
+:root:where(.catppuccin-mocha) {
+  --color-background: #181825;
+  --color-foreground: #cdd6f4;
+
+  --color-code-background: #1e1e2e;
+  --color-code-keyword: #cba6f7;
+  --color-code-string: #a6e3a1;
+  --color-code-escape-sequence: #f5c2e7;
+  --color-code-comment: #6c7086;
+  --color-code-constant: #fab387;
+  --color-code-number: #fab387;
+  --color-code-operator: #89dceb;
+  --color-code-brace: #9399b2;
+  --color-code-delimiter: #9399b2;
+  --color-code-function: #89b4fa;
+  --color-code-parameter: #eba0ac;
+  --color-code-builtin: #f38ba8;
+  --color-code-class: #f9e2af;
+  --color-code-metadata: #f9e2af;
+}
+
+:root:where(.catppuccin-latte) {
+  --color-background: #e6e9ef;
+  --color-foreground: #4c4f69;
+
+  --color-code-background: #eff1f5;
+  --color-code-keyword: #8839ef;
+  --color-code-string: #40a02b;
+  --color-code-escape-sequence: #ea76cb;
+  --color-code-comment: #9ca0b0;
+  --color-code-constant: #fe640b;
+  --color-code-number: #fe640b;
+  --color-code-operator: #04a5e5;
+  --color-code-brace: #7c7f93;
+  --color-code-delimiter: #7c7f93;
+  --color-code-function: #1e66f5;
+  --color-code-parameter: #e64553;
+  --color-code-builtin: #d20f39;
+  --color-code-class: #df8e1d;
+  --color-code-metadata: #df8e1d;
+}
+
+section {
+  color: var(--color-foreground);
+  background-color: var(--color-background);
+  font-size: 30px;
+  font-family: FiraCode Nerd Font, FiraMono Nerd Font, Consolas, monospace;
+  padding: 20px 40px;
+  line-height: 34px;
+}
+
+code {
+  background-color: var(--color-code-background);
+  display: inline-block;
+  font-family: Consolas, monospace;
+  font-size: 20px;
+  width: 95%;
+  line-height: 22px;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+li {
+  line-height: 38px;
+}
+
+.hljs-keyword {
+  color: var(--color-code-keyword);
+}
+
+.hljs-string {
+  color: var(--color-code-string);
+}
+
+.hljs-number {
+  color: var(--color-code-number);
+}
+
+.hljs-subst {
+  color: var(--color-code-operator);
+}
+
+.hljs-operator {
+  color: var(--color-code-operator);
+}
+
+.hljs-built_in {
+  color: var(--color-code-builtin);
+}
+
+.hljs-title {
+  color: var(--color-code-class);
+}
+
+.hljs-type {
+  color: var(--color-code-class);
+}
+
+.hljs-comment {
+  color: var(--color-code-comment);
+}
