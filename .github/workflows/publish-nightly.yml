@@ -1,8 +1,9 @@
-name: publish
+name: publish-nightly
 
 on:
-  release:
-    types: [published]
+  push:
+    branches:
+      - main
 
 jobs:
   publish:
@@ -18,8 +19,6 @@ jobs:
           password: ${{secrets.REGISTRY_TOKEN}}
       - name: Build & publish image
         run: |
-          export VERSION=$(sed 's/^.//' <<< ${{github.event.release.tag_name}})
           export REPO=$(sed 's/\(.*\)/\L\1/' <<< $GITHUB_REPOSITORY)
-          docker build . -t ghcr.io/$REPO:latest -t ghcr.io/$REPO:$VERSION
-          docker push ghcr.io/$REPO:latest
-          docker push ghcr.io/$REPO:$VERSION
+          docker build . -t ghcr.io/$REPO:nightly
+          docker push ghcr.io/$REPO:nightly
