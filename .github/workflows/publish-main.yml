@@ -16,7 +16,7 @@ jobs:
         with:
           registry: ghcr.io
           username: ${{github.actor}}
-          password: ${{secrets.GITHUB_TOKEN}}
+          password: ${{secrets.REGISTRY_TOKEN}}
       - name: Build & publish image
         run: |
           export REPO=$(sed 's/\(.*\)/\L\1/' <<< $GITHUB_REPOSITORY)
