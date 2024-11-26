@@ -1,4 +1,4 @@
-name: publish-nightly
+name: publish-main
 
 on:
   push:
@@ -20,5 +20,5 @@ jobs:
       - name: Build & publish image
         run: |
           export REPO=$(sed 's/\(.*\)/\L\1/' <<< $GITHUB_REPOSITORY)
-          docker build . -t ghcr.io/$REPO:nightly
-          docker push ghcr.io/$REPO:nightly
+          docker build . -t ghcr.io/$REPO:main
+          docker push ghcr.io/$REPO:main
