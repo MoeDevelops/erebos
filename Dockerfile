@@ -1,23 +1,14 @@
-FROM alpine:edge
-LABEL org.opencontainers.image.source=https://github.com/MoeDevelops/erebos
-
-# Install packages
-RUN apk update && \
-    apk add npm
-
-# Build project
+FROM alpine:edge AS builder
 WORKDIR /build
 COPY . .
-RUN npm i && \
+
+RUN apk add npm && \
+    npm i && \
     npx @marp-team/marp-cli@latest index.md -o build/index.html --theme theme.css && \
-    cp -r assets build/assets && \
-    mv /build/build /app
+    cp -r assets build/assets
 
-# Clean up
-RUN rm -rf /build
-RUN apk cache clean
+FROM nginx:alpine-slim
+LABEL org.opencontainers.image.source=https://github.com/MoeDevelops/erebos
 
-# Start container
 WORKDIR /app
-EXPOSE 8080
-ENTRYPOINT [ "npx", "http-server", "." ]
+COPY --from=builder /build/build /usr/share/nginx/html
