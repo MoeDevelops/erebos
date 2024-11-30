@@ -3,6 +3,7 @@
 :root:where(.catppuccin-mocha) {
   --color-background: #181825;
   --color-foreground: #cdd6f4;
+  --color-link: #89b4fa;
 
   --color-code-background: #1e1e2e;
   --color-code-keyword: #cba6f7;
@@ -24,6 +25,7 @@
 :root:where(.catppuccin-latte) {
   --color-background: #e6e9ef;
   --color-foreground: #4c4f69;
+  --color-link: #1e66f5;
 
   --color-code-background: #eff1f5;
   --color-code-keyword: #8839ef;
@@ -48,7 +50,11 @@ section {
   font-size: 30px;
   font-family: FiraCode Nerd Font, FiraMono Nerd Font, Consolas, monospace;
   padding: 20px 40px;
-  line-height: 34px;
+  line-height: 45px;
+}
+
+a {
+  color: var(--color-link);
 }
 
 code {
