@@ -4,8 +4,7 @@ COPY . .
 
 RUN apk add npm && \
     npm i && \
-    npx @marp-team/marp-cli@latest index.md -o build/index.html --theme theme.css && \
-    cp -r assets build/assets
+    npm run build
 
 FROM nginx:alpine-slim
 LABEL org.opencontainers.image.source=https://github.com/MoeDevelops/erebos
