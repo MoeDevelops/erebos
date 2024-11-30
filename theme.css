@@ -47,10 +47,16 @@
 section {
   color: var(--color-foreground);
   background-color: var(--color-background);
-  font-size: 30px;
+  font-size: 28px;
   font-family: FiraCode Nerd Font, FiraMono Nerd Font, Consolas, monospace;
   padding: 20px 40px;
-  line-height: 45px;
+  line-height: 40px;
+}
+
+br {
+  display: block;
+  content: "";
+  margin-top: 8px;
 }
 
 a {

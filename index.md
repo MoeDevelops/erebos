@@ -17,29 +17,62 @@ theme: base16
 
 ---
 
-## Das Buch
-
-Titel: Erebos
-Genre: Thriller
-Erscheinungsjahr: 2010
-Zielgruppe: Jugendliche & junge Erwachsene
-
-![bg right:33% h:70%](assets/cover.png)
-
----
-
 ## Autorin
 
 Name: Ursula Poznanski
 Geboren am: 30.10.1968
+Arbeitete 1996-2012 als Medizinjournalistin.
+Das erste Buch "Buchstabendschungel" brachte sie 2003 raus.
+Ihr erster großer Erfolg war Erebos in 2010.
+Schreibt hauptsächlich Thriller für Jugendliche (bei Loewe Verlag) und Erwachsene (bei Wunderlich und Knaur)
 
-![bg right:33% h:70% grayscale](assets/ursula_poznanski.png)
+![bg right:30% h:70% grayscale](assets/ursula_poznanski.png)
+
+---
+
+## Das Buch Erebos
+
+Genre: Thriller
+Erscheinungsjahr: 2010
+Zielgruppe: Jugendliche & junge Erwachsene
+Verlag: Loewe Verlag
+Seiten: 482
+Gewann den Deutschen Jugendliteraturpreis 2011
+Erebos 2 erschien 2019 und spielt 10 Jahre nach Erebos 1
+Thema: *An der Londoner Schule des Protagonisten Nick wird das Videospiel Erebos herumgereicht. Es gibt einem Aufgaben, welche man in der Realität erfüllen muss.*
+
+![bg right:30% h:70%](assets/cover.png)
+
+---
+
+## Wichtige Charaktere am Anfang
+
+### Nick
+
+Protagonist der Geschichte, 16 Jahre alt, groß, lange Haare.
+Ist sehr interessiert an Erebos.
+
+### Brynne
+
+Mitschülerin von Nick, hat Interesse an ihm, gibt ihm die Erebos-DVD.
+
+### Emily
+
+Mitschülerin von Nick, ist negativ gegenüber Erebos eingestellt.
+Nick hat Interesse an ihr.
+
+---
+
+## Was finde ich interessant?
+
+- Inhalt ist (bis auf DVDs) noch aktuell
 
 ---
 
 ## Quellen
 
 - <https://ursula-poznanski.de/>
+- <https://www.loewe-verlag.de>
 
 ---
 
