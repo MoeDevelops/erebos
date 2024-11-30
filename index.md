@@ -80,7 +80,7 @@ Nick hat Interesse an ihr.
 
 Source ist auf [github.com/MoeDevelops/erebos](https://github.com/MoeDevelops/erebos)
 
-- Präsentation mit **Marp** in VSCode gemacht
+- Präsentation mit **Marp** in **VSCode** gemacht
 - Wird über eine **GitHub Action** als **Docker Image** gebaut
 - Image wird in der **GitHub Container Registry** veröffentlicht
 - Server holt sich das neue Image mit **WatchTower**
@@ -88,3 +88,11 @@ Source ist auf [github.com/MoeDevelops/erebos](https://github.com/MoeDevelops/er
 
 Theme: Catppuccin
 Font: FiraCode Nerd Font
+
+<meta name="darkreader-lock" />
+
+---
+
+## Ende
+
+### Noch Fragen?
