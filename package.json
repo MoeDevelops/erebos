@@ -1,6 +1,5 @@
 {
-  "dependencies": {
-    "@marp-team/marp-cli": "^4.0.3",
-    "http-server": "^14.1.1"
+  "devDependencies": {
+    "@marp-team/marp-cli": "^4.0.3"
   }
 }
