@@ -8,6 +8,9 @@ theme: base16
 
 ## Buch Präsentation
 
+<!-- Dark Reader Plugin aus -->
+<meta name="darkreader-lock" />
+
 ---
 
 ## Inhalt
@@ -67,7 +70,7 @@ Nick ist in Emily verliebt.
 
 Nicks Freund Colin taucht nicht mehr zum Basketball Training oder zur Schule auf. In der Schule werden Päckchen herumgereicht. Es ist merkwürdig.
 Nick sieht wie sein Mitschüler Rashid Emily ein quadratisches Päckchen anbietet. Rashid versucht sie zu überzeugen, sie hat allerdings kein Interesse.
-Brynne gibt Nick später die DVD für Erebos und erklärt ihm die Regeln.
+Brynne gibt Nick später die Erebos-DVD und erklärt ihm die Regeln.
 
 ---
 
@@ -79,6 +82,7 @@ Brynne gibt Nick später die DVD für Erebos und erklärt ihm die Regeln.
 * Erwähne ausserhalb des Spiels nie den Namen deines Charakters.
 * Der Inhalt des Spiels ist geheim. Sprich mit niemandem darüber.
 * Bewahre die DVD sicher auf. Kopiere sie nur, wenn der Bote dich dazu auffordert.
+* Nick erstellt sich Zuhause seinen Charakter: Sarius, der Dunkelelf
 
 ---
 
@@ -91,6 +95,20 @@ Brynne gibt Nick später die DVD für Erebos und erklärt ihm die Regeln.
 * "Der Bote" agiert wie ein Game Master. Er gibt Belohnungen nach Kämpfen und vergibt Aufträge.
 * Aufträge können auch in der echten Welt stattfinden
 * Gute Grafik und macht süchtig
+
+---
+
+## Nicks Aufträge
+
+1. Eine kleine Kiste von einem Ort in London zu einem anderen bringen
+
+2. Das Spiel kopieren und an jemanden weitergeben
+
+3. Brynne in ein Café einladen
+
+4. Fotos von einem Jaguar-Fahrer in einem Parkhaus machen
+
+5. Den Tee seines Lehrers mit Herzmedikamenten vergiften
 
 ---
 
@@ -120,8 +138,6 @@ Source ist auf [github.com/MoeDevelops/erebos](https://github.com/MoeDevelops/er
 
 Theme: Catppuccin
 Font: FiraCode Nerd Font
-
-<meta name="darkreader-lock" />
 
 ---
 
