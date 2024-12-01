@@ -15,8 +15,15 @@ theme: base16
 
 ## Inhalt
 
-- TODO
-- TODO
+- [Autorin](#autorin)
+- [Das Buch Erebos](#das-buch-erebos)
+- [Wichtige Charaktere am Anfang](#wichtige-charaktere-am-anfang)
+- [Bevor Erebos gespielt wird](#bevor-erebos-gespielt-wird)
+- [Über das Spiel](#die-regeln-des-spiels)
+- [Die Aufträge](#die-aufträge)
+- [Was finde ich interessant?](#was-finde-ich-interessant)
+- [Quellen](#quellen)
+- [Nerd Zeug (Über die Präsentation selbst)](#nerd-zeug)
 
 ---
 
@@ -66,7 +73,7 @@ Nick ist in Emily verliebt.
 
 ---
 
-## Bevor Nick Erebos bekommt
+## Bevor Erebos gespielt wird
 
 Nicks Freund Colin taucht nicht mehr zum Basketball Training oder zur Schule auf. In der Schule werden Päckchen herumgereicht. Es ist merkwürdig.
 Nick sieht wie sein Mitschüler Rashid Emily ein quadratisches Päckchen anbietet. Rashid versucht sie zu überzeugen, sie hat allerdings kein Interesse.
@@ -74,7 +81,9 @@ Brynne gibt Nick später die Erebos-DVD und erklärt ihm die Regeln.
 
 ---
 
-## Die Regeln
+## Über Erebos
+
+### Die Regeln des Spiels
 
 * Man hat nur eine Chance. Wenn man stirbt, kann man nicht noch einmal von vorne anfangen.
 * Wenn du spielst, musst du alleine sein.
@@ -86,7 +95,9 @@ Brynne gibt Nick später die Erebos-DVD und erklärt ihm die Regeln.
 
 ---
 
-## Das Spiel Erebos
+## Über Erebos
+
+### Das Spiel Erebos
 
 * MMORPG (wie z.B. WoW)
 * Charaktererstellung mit Völkern (Vampire, Dunkelelfen, ...) und Beruf (Ritter, Magier, ...)
@@ -98,7 +109,7 @@ Brynne gibt Nick später die Erebos-DVD und erklärt ihm die Regeln.
 
 ---
 
-## Nicks Aufträge
+## Die Aufträge
 
 1. Eine kleine Kiste von einem Ort in London zu einem anderen bringen
 
