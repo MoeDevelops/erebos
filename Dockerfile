@@ -9,5 +9,4 @@ RUN apk add npm && \
 FROM nginx:alpine-slim
 LABEL org.opencontainers.image.source=https://github.com/MoeDevelops/erebos
 
-WORKDIR /app
 COPY --from=builder /build/build /usr/share/nginx/html
