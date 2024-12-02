@@ -101,7 +101,7 @@ Brynne gibt Nick später die Erebos-DVD und erklärt ihm die Regeln.
 
 * MMORPG (wie z.B. WoW)
 * Charaktererstellung mit Völkern (Vampire, Dunkelelfen, ...) und Beruf (Ritter, Magier, ...)
-* Man kann sich mit NPCs unterhalten als wären sie ChatGPT
+* Man kann sich mit NPCs unterhalten als wären sie ChatGPT (KI)
 * Man kann sich mit Spielern nur in Städten und an Lagerfeuern unterhalten
 * "Der Bote" agiert wie ein Game Master. Er gibt Belohnungen nach Kämpfen und vergibt Aufträge.
 * Aufträge können auch in der echten Welt stattfinden
@@ -126,6 +126,7 @@ Brynne gibt Nick später die Erebos-DVD und erklärt ihm die Regeln.
 ## Was finde ich interessant?
 
 - Inhalt ist (bis auf DVDs) noch aktuell
+- Das Buch wird an Schulen verwendet (~8. Klasse)
 
 ---
 
@@ -155,3 +156,5 @@ Font: FiraCode Nerd Font
 ## Ende
 
 ### Noch Fragen?
+
+![bg right h:70%](assets/happy.png)
