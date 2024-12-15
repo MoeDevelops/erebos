@@ -109,7 +109,7 @@ Personaler Erzähler (Weiß nur was der Protagonist weiß, 3. Person)
 
 Source ist auf [github.com/MoeDevelops/erebos](https://github.com/MoeDevelops/erebos)
 
-- Präsentation mit **Marp** mit einer **Markdown**-Datei **** gemacht
+- Präsentation mit **Marp** mit einer **Markdown**-Datei gemacht
 - Wird über eine **GitHub Action** als **Docker Image** gebaut
 - Image wird in der **GitHub Container Registry** veröffentlicht
 - Server holt sich das neue Image mit **WatchTower**
