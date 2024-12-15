@@ -10,7 +10,6 @@ theme: base16
 
 <!-- Dark Reader Plugin aus -->
 <meta name="darkreader-lock" />
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css">
 
 ---
 
@@ -118,7 +117,7 @@ Source ist auf [github.com/MoeDevelops/erebos](https://github.com/MoeDevelops/er
 - Server startet **Docker Container** mit neuem Image neu
 
 Theme: Catppuccin
-Font: FiraCode Nerd Font
+Font: Lexend
 
 ---
 
