@@ -1,5 +1,7 @@
 /* @theme base16 */
 
+@import url(https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css);
+
 :root:where(.catppuccin-mocha) {
   --color-background: #181825;
   --color-foreground: #cdd6f4;
