@@ -28,8 +28,7 @@ theme: base16
 
 ## Autorin
 
-Name: Ursula Poznanski
-Geboren am: 30.10.1968
+Ursula Poznanski, geb. 30.10.1968
 Arbeitete 1996-2012 als Medizinjournalistin.
 Das erste Buch "Buchstabendschungel" brachte sie 2003 raus.
 Ihr erster großer Erfolg war Erebos in 2010.
@@ -80,8 +79,8 @@ Personaler Erzähler (Weiß nur was der Protagonist weiß, 3. Person)
 ### Das Spiel Erebos
 
 * MMORPG (wie z.B. WoW)
-* Charaktererstellung mit Völkern (Vampire, Dunkelelfen, ...) und Beruf (Ritter, Magier, ...)
-* Man kann sich mit NPCs unterhalten als wären sie ChatGPT (KI)
+* Eigenen Charakter erstellen
+* Man kann sich mit NPCs unterhalten als wären sie ChatGPT
 * Man kann sich mit Spielern nur in Städten und an Lagerfeuern unterhalten
 * "Der Bote" agiert wie ein Game Master. Er gibt Belohnungen nach Kämpfen und vergibt Aufträge.
 * Aufträge können auch in der echten Welt stattfinden
@@ -100,7 +99,7 @@ Personaler Erzähler (Weiß nur was der Protagonist weiß, 3. Person)
 
 ## Quellen
 
-- <https://ursula-poznanski.de/>
+- <https://ursula-poznanski.de>
 - <https://www.loewe-verlag.de>
 - <https://erebos.fandom.com/de/wiki/Erebos_Wiki>
 
