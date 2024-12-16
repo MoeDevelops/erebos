@@ -54,7 +54,7 @@ Der Nachfolger Erebos 2 erschien 2019 und spielt 10 Jahre nach Erebos 1
 
 ## Inhalt des Buches
 
-An der Londoner Schule des Protagonisten Nick wird ein viereckiges Päckchen rumgereicht. Es handelt sich um das Videospiel Erebos, aber keiner darf darüber reden.
+An der Londoner Schule des Protagonisten Nick wird ein viereckiges Päckchen herumgereicht. Es handelt sich um das Videospiel Erebos, aber keiner darf darüber reden.
 In Erebos muss man für Belohnungen nicht nur Aufgaben im Spiel erledigen, sondern auch in der echten Welt.
 Nick bekommt kurz nach dem Anfang das Spiel und wird, wie alle anderen, süchtig danach.
 Sein in-game Charakter ist der Dunkelelf Sarius.
@@ -99,6 +99,13 @@ Personaler Erzähler (Weiß nur was der Protagonist weiß, 3. Person)
 * Man weiß immer in welcher Welt man ist, weil die Charaktere im Spiel komplett andere Namen haben
 * Das Buch wird an Schulen verwendet (~8. Klasse)
 * Es hat Spaß gemacht zu lesen
+
+---
+
+## Seiten
+
+![bg fit](assets/seite1.png)
+![bg fit](assets/seite2.png)
 
 ---
 
