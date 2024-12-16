@@ -13,14 +13,16 @@ theme: base16
 
 ---
 
-## Inhalt
+## Inhaltsverzeichnis
 
 - [Autorin](#autorin)
 - [Über das Buch](#über-das-buch)
-- [Über das Spiel](#die-regeln-des-spiels)
+- [Inhalt des Buches](#inhalt-des-buches)
+- [Über Erebos](#die-regeln-des-spiels)
 - [Was finde ich interessant?](#was-finde-ich-interessant)
+- [Seiten](#seiten)
 - [Quellen](#quellen)
-- [Nerd Zeug (Über die Präsentation selbst)](#nerd-zeug)
+- [Nerd Zeug](#nerd-zeug)
 
 ![bg right:30% h:70%](assets/cover.png)
 
