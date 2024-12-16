@@ -93,17 +93,6 @@ Personaler Erzähler (Weiß nur was der Protagonist weiß, 3. Person)
 
 ---
 
-## Was finde ich interessant?
-
-* Inhalt ist (bis auf DVDs) noch aktuell
-* Charaktere und Freundschaften ändern sich über den Verlauf der Geschichte
-* Das Spiel ist wie eine zweite Welt behandelt
-* Man weiß immer in welcher Welt man ist, weil die Charaktere im Spiel komplett andere Namen haben
-* Das Buch wird an Schulen verwendet (~8. Klasse)
-* Es hat Spaß gemacht zu lesen
-
----
-
 ## Seiten
 
 ![bg fit 70%](assets/seite1.png)
@@ -112,7 +101,18 @@ Personaler Erzähler (Weiß nur was der Protagonist weiß, 3. Person)
 
 ## Seiten
 
-![bg fit](assets/seite2.png)
+![bg fit 60%](assets/seite2.png)
+
+---
+
+## Was finde ich interessant?
+
+* Inhalt ist (bis auf DVDs) noch aktuell
+* Charaktere und Freundschaften ändern sich über den Verlauf der Geschichte
+* Das Spiel ist wie eine zweite Welt behandelt
+* Man weiß immer in welcher Welt man ist, weil die Charaktere im Spiel komplett andere Namen haben
+* Das Buch wird an Schulen verwendet (~8. Klasse)
+* Es hat Spaß gemacht zu lesen
 
 ---
 
