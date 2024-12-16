@@ -106,7 +106,12 @@ Personaler Erzähler (Weiß nur was der Protagonist weiß, 3. Person)
 
 ## Seiten
 
-![bg fit](assets/seite1.png)
+![bg fit 70%](assets/seite1.png)
+
+---
+
+## Seiten
+
 ![bg fit](assets/seite2.png)
 
 ---
