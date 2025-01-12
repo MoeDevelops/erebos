@@ -75,7 +75,6 @@ Personaler Erzähler (Weiß nur was der Protagonist weiß, 3. Person)
 * Erwähne ausserhalb des Spiels nie den Namen deines Charakters.
 * Der Inhalt des Spiels ist geheim. Sprich mit niemandem darüber.
 * Bewahre die DVD sicher auf. Kopiere sie nur, wenn der Bote dich dazu auffordert.
-* Nick erstellt sich Zuhause seinen Charakter: Sarius, der Dunkelelf
 
 ---
 
