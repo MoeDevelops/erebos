@@ -3,6 +3,6 @@
     "build": "npx @marp-team/marp-cli --html index.md -o build/index.html --theme theme.css && cp -r assets build"
   },
   "devDependencies": {
-    "@marp-team/marp-cli": "^4.0.3"
+    "@marp-team/marp-cli": "^4.1.2"
   }
 }

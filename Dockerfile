@@ -1,10 +1,11 @@
-FROM alpine:edge AS builder
+FROM node:latest AS builder
 WORKDIR /build
-COPY . .
 
-RUN apk add npm && \
-    npm i && \
-    npm run build
+COPY package*.json .
+RUN npm i
+
+COPY . .
+RUN npm run build
 
 FROM nginx:alpine-slim
 LABEL org.opencontainers.image.source=https://github.com/MoeDevelops/erebos
